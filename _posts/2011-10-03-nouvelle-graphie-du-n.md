@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nouvelle graphie du n'
+title: Nouvelle graphie du n
 date: 2011-10-03 12:00:00 +0200
 categories: french
 ---
