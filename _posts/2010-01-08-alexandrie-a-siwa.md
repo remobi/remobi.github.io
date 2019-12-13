@@ -2,7 +2,7 @@
 layout: post
 title: "D'Alexandrie à Siwa"
 date: 2010-01-08 12:00:00 +0200
-categories: french
+categories: fr
 ---
 Je bondis à la première sonnerie et me prépare en vitesse dans un élan d'excitation : j'aime être debout avant les autres. Mes affaires sont toujours prêtes la veille, habitude prise après un réveil en catastrophe et un vol attrapé in extremis des années auparavant en Australie. Nous sommes un vendredi, et les rues sont encore désertes. L'ambiance est également toute d'attente, à la gare routière ouatée de brouillard humide et blanc. Entre les bus et les hommes en vestes d'hiver, une femme au grand voile bleu attend sur la terre battue, une valise en tissu noir à ses pieds et un sac plastique orange contre elle. Le visage sévère, elle regarde dans ma direction sans me voir dans l'ombre de la cabine de mon bus.
 
