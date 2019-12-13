@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Carnet Web
-google_analytics: UA-12345678-1
+google_analytics: UA-154568137-1
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Textes et idées. Rémi Boissonnas.
