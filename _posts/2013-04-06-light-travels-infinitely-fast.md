@@ -2,7 +2,6 @@
 layout: post
 title: Light travels infinitely fast
 date: 2013-04-06 12:00:00 +0200
-categories: en
 ---
 This is about science, information and media. In short: about our modern era. In facebook, a friend posted a link to an article about scientists having supposedly achieved infinite light speed:
 

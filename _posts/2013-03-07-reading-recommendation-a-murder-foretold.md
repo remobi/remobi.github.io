@@ -2,7 +2,6 @@
 layout: post
 title: "Unravelling the ultimate political conspiracy"
 date: 2013-03-07 12:00:00 +0200
-categories: en
 ---
 This is a reading recommendation.
 

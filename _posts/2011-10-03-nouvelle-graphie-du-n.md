@@ -2,7 +2,6 @@
 layout: post
 title: Nouvelle graphie du n
 date: 2011-10-03 12:00:00 +0200
-categories: fr
 ---
 Les cours de russe ont commencé. Encastré dans un banc dont l’arête d’une planche basse me scie les tibias, je fais partie intégrante du manège habilement orchestré par nos professeurs. La dynamique est bien différente des cours particuliers de russe que je prenais il y a deux ans. Ici, on répète à l’unisson, à tour de rôle ou debout devant notre petite assemblée cosmopolite. Il y a deux ans, et aussi riche qu’il ait pu être, le même exercice en face-à-face avec un professeur ne procurait pas cet effet d’entraînement. C’était passionnant mais la langue, décortiquée et expliquée posément, était confortablement maintenue à distance. Il ne fallait pas, comme ici, s’exprimer soudainement avec une poignée dérisoire de mots.
 

@@ -2,7 +2,6 @@
 layout: post
 title: 'Triggering nuclear bombs: Uranium vs. Plutonium'
 date: 2013-02-26 12:00:00 +0200
-categories: en
 ---
 « And as usual I have a question for you. Wikipedia says that only the implosion method can be used to trigger a nuclear fission bomb made with plutonium. Do you know why? Why is plutonium different from uranium in this respect? ».
 

@@ -2,7 +2,6 @@
 layout: post
 title: Reprendre la route
 date: 2010-01-05 12:00:00 +0200
-categories: fr
 ---
 A l’arrivée au Caire, les formalités de visa sont rapides. Je passe les chauffeurs de taxis et les rabatteurs qui se pressent autour de moi en gardant la tête droite, le regard au-dessus des têtes : « non », « non ». A la station de bus de l’aéroport, le vendeur de mon billet pour Alexandrie m’offre du pain et quelques chips, comme en signe d’accueil en Egypte.
 

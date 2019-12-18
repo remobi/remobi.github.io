@@ -2,7 +2,6 @@
 layout: post
 title: Why I gave up meditation
 date: 2015-06-24 12:00:00 +0200
-categories: en
 ---
 Excerpts from [http://www.reddit.com/r/Meditation/comments/35cftm/why_i_gave_up_meditation/](http://www.reddit.com/r/Meditation/comments/35cftm/why_i_gave_up_meditation/). Thank you Reddit.
 

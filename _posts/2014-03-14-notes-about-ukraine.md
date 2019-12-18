@@ -2,7 +2,6 @@
 layout: post
 title: Notes about Ukraine (March 2014)
 date: 2014-03-14 12:00:00 +0200
-categories: en
 ---
 Every day, and despite my best attempts to be selective, my browser fills with articles about the current events in Ukraine and I spend much of it as well as too many hours each night reading and processing text to make sure I get as good a picture of what’s going on as I can. That proves both exhausting and frustrating. This is not all: there’s the constant flow of news, the tension, the messages of support, the small things which can be done remotely, like spreading useful messages or helping people keep a sense of normalcy.
 
